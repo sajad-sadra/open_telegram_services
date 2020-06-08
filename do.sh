@@ -2,7 +2,7 @@ apt-get update
 apt-get install redsocks
 systemctl enable redsocks
 
-curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/do.sh" -o /usr/local/bin/opentelegram
+curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/do.sh" -o /sbin/opentelegram
 
 curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/redsocks.conf" -o /etc/redsocks.conf
 
