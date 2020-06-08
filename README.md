@@ -1,7 +1,6 @@
 Open telegram messanger
 ========================
-
-  ⭐️ <a color="cyan">Thanks **everyone** who has starred the project, it means a lot!</a>
+⭐️ <a>Thanks **everyone** who has starred the project, it means a lot!</a>
 
 It tested On <i>Ubuntu-19.10</i> but maybe work on all Debian base OS;
 
@@ -13,7 +12,7 @@ If you had Ubuntu or Debian base OS you can use this script to open them and use
 Installing
 ----------
 ```
-  curl 'https://github.com/sajad-sadra/open_telegram_services/raw/master/do.sh' | bash
+curl 'https://github.com/sajad-sadra/open_telegram_services/raw/master/do.sh' | bash
  ```
 Notice
 -------
