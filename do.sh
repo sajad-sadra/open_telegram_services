@@ -1,11 +1,11 @@
 apt-get install redsocks
 systemctl enable redsocks
 
-curl -L "https://github.com/sajad-sadra/open_telegram_services/raw/master/set_teleg_rules" -o /usr/local/bin/set_teleg_rules
+curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/do.sh" -o /usr/local/bin/set_teleg_rules
 
-curl -L "https://github.com/sajad-sadra/open_telegram_services/raw/master/open_teleg_serv.service" -o /etc/system/systemd/open_teleg_serv.service
+curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/open_teleg_serv.service" -o /etc/system/systemd/open_teleg_serv.service
 
-curl -L "https://github.com/sajad-sadra/open_telegram_services/raw/master/redsocks.conf" -o /etc/redsocks.conf
+curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/redsocks.conf" -o /etc/redsocks.conf
 
 systemctl daemon-reload
 systemctl enable open_teleg_serv
