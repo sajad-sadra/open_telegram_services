@@ -12,11 +12,11 @@ If you had Ubuntu or Debian base OS you can use this script to open them and use
 Installing
 ----------
 ```
-curl 'https://github.com/sajad-sadra/open_telegram_services/raw/master/do.sh' | bash
+curl 'https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/do.sh' | bash
  ```
 Notice
 -------
 + Run this script with <b>root</b> privilege Just one time 
-+ If you run this more than one something fail on your PC
++ If you run this more than one something fail sth on your PC
  
  🥂 <i><b>enjoy it</b></i> 😜
