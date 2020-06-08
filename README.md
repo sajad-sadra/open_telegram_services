@@ -3,7 +3,7 @@ Open telegram messanger
 
   ⭐️ <a color="cyan">Thanks **everyone** who has starred the project, it means a lot!</a>
 
-It tested On Ubuntu-19.10 but maybe work on all Debian base OS;
+It tested On <i>Ubuntu-19.10</i> but maybe work on all Debian base OS;
 
 What is this?
 -------------
