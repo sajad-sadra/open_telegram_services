@@ -1,3 +1,4 @@
+apt-get update
 apt-get install redsocks
 systemctl enable redsocks
 
