@@ -16,7 +16,7 @@ curl 'https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/maste
  ```
 Notice
 -------
-+ Run this script with <b>root</b> privilege Just one time 
-+ If you run this more than one something fail sth on your PC
++ Run this script with <b>root</b> privilege (you can use <code>sudo -i</code>).
++ Run this scrpt once because if you run multiple time <code>/etc/hosts</code> file get some addition line.
  
  🥂 <i><b>enjoy it</b></i> 😜
