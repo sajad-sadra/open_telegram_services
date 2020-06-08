@@ -17,6 +17,6 @@ curl 'https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/maste
 Notice
 -------
 + Run this script with <b>root</b> privilege (you can use <code>sudo -i</code>).
-+ Run this script once. If you run multiple time delete extra line added to<code>/etc/hosts</code> file if you want (It dosent make any problem if you dont correct this file).
++ Run this script once. If you run multiple times, delete extra line added to<code>/etc/hosts</code> file if you want (It dosent make any problem if you dont correct this file).
  
  🥂 <i><b>enjoy it</b></i> 😜
