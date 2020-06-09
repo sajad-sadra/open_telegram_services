@@ -17,7 +17,7 @@ curl 'https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/maste
 ```
 2. You must run an socks5 proxy like <a href="https://www.ssh.com/ssh/tunneling/">ssh-tunneling</a> or <a href="https://www.torproject.org/">Tor proxy</a> and etc or <b>port 9050</b> (you can change this port in <code><a href="https://github.com/sajad-sadra/open_telegram_services/blob/cb08203a5b726176f38356c10384fe65d8014508/redsocks.conf#L7">/etc/redsocks.conf</a></code>).
 
-3. When you want use this option type this command on terminal with <u>root</u> privilege:
+3. Each time you want use this option type this command on terminal with <u>root</u> privilege:
 ```
 $ opentelegram
 ```
