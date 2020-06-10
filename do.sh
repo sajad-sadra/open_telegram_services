@@ -1,5 +1,5 @@
 apt-get update
-apt-get install redsocks
+apt-get install redsocks curl
 systemctl enable redsocks
 
 curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/master/set_teleg_rules" -o /sbin/opentelegram
