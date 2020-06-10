@@ -9,3 +9,4 @@ curl -L "https://raw.githubusercontent.com/sajad-sadra/open_telegram_services/ma
 systemctl restart redsocks
 
 echo "149.154.167.220   api.telegram.org" >> /etc/hosts
+ehco "149.154.167.99    core.telegram.org" >> /etc/hosts
