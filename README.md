@@ -8,7 +8,9 @@ What is this?
 -------------
 Telegram messanger and their API are banned in some country like Iran, China, Russia & etc.
 If you had Ubuntu or Debian base OS you can use this script to open them and use for <a href="https://telegram.org/">messaging</a> and write and work with <a href="https://core.telegram.org/bots">Telegram bot API</a> without tunneling whole device.
-<b> All devices in the same network that their gateway seted on yours PC can open telegram easily </b>
+
+<b>All devices in the same network that their gateway seted on yours PC can open telegram easily.</b>
+
 Installing
 ----------
 1. Run this command with <u>root</u> privilege:
